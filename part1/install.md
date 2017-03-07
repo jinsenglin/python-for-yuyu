@@ -7,7 +7,11 @@ brew update
 brew install pyenv
 ```
 
-Add `eval "$(pyenv init -)"` to your ~/.bash_profile
+Add `eval "$(pyenv init -)"` to your ~/.bash_profile by running
+
+```bash
+echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
+```
 
 Run
 
