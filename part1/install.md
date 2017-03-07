@@ -1,4 +1,4 @@
-# Check your Python version
+# Install pyenv
 
 Open terminal and run
 
