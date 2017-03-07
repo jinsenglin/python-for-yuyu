@@ -9,5 +9,5 @@ python --version
 Output
 
 ```
-Python 2.7.10
+Python 3.5.2
 ```
