@@ -9,3 +9,5 @@
     * [Install Python 2.7.13](part2/install.md)
 * [Part III](part3/README.md)
     * [Install virtualenv](part3/install.md)
+* [Part IV](part4/README.md)
+    * [Create a virtual env](part4/create.md)
