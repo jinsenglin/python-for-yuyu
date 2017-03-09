@@ -1,4 +1,4 @@
-# Install virtualenv
+# Create a virtual env
 
 Open terminal and run
 
