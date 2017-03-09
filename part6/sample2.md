@@ -5,8 +5,6 @@ Open terminal and run
 ```bash
 pyenv shell 2.7.13
 
-cd ~/Desktop/venvs
-
 mkdir -p ~/Desktop/venvs/sample2/src
 cd ~/Desktop/venvs/sample2/src
 ```
