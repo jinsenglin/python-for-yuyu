@@ -11,3 +11,5 @@
     * [Install virtualenv](part3/install.md)
 * [Part IV](part4/README.md)
     * [Create a virtual env](part4/create.md)
+* [Part V](part5/README.md)
+    * [Install Django 1.10](part5/install.md)
