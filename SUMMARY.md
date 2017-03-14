@@ -16,3 +16,4 @@
 * [Part VI](part6/README.md)
     * [Sample project 1](part6/sample1.md)
     * [Sample project 2](part6/sample2.md)
+    * [Sample project 3](part6/sample3.md)
