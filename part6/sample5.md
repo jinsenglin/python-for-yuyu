@@ -35,7 +35,7 @@ class BlogSpider(scrapy.Spider):
             yield scrapy.Request(response.urljoin(next_page), callback=self.parse)
 ```
 
-Run by
+Run
 
 ```bash
 scrapy runspider main.py

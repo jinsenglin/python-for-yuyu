@@ -23,7 +23,7 @@ Create a file named main.py with following content:
 ?
 ```
 
-Run by
+Run
 
 ```bash
 python main.py

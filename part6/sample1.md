@@ -30,7 +30,7 @@ with speech_recognition.Microphone() as source:
 r.recognize_google(audio, language='zh-TW')
 ```
 
-Run by
+Run
 
 ```bash
 python main.py

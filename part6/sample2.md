@@ -15,7 +15,7 @@ Create a file named main.py with following content:
 print "Hello World"
 ```
 
-Run by
+Run
 
 ```bash
 python main.py

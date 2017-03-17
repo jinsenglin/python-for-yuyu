@@ -26,7 +26,7 @@ x = linalg.solve(a, b)
 print(x)
 ```
 
-Run by
+Run
 
 ```bash
 python sample4.py

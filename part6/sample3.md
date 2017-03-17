@@ -33,7 +33,7 @@ m6 = add(m4,m5)
 print(m6)
 ```
 
-Run by
+Run
 
 ```bash
 python main.py

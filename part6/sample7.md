@@ -17,7 +17,7 @@ cd ~/Desktop/venvs/sample6/src
 pip install -r requirements.txt
 ```
 
-Run by
+Run
 
 ```bash
 python crawler.py -b PublicServan -i 100 200
