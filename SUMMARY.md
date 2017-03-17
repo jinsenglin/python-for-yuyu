@@ -19,3 +19,5 @@
     * [Sample project 3](part6/sample3.md)
     * [Sample project 4](part6/sample4.md)
     * [Sample project 5](part6/sample5.md)
+    * [Sample project 6](part6/sample6.md)
+    * [Sample project 7](part6/sample7.md)
