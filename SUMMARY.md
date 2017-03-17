@@ -18,3 +18,4 @@
     * [Sample project 2](part6/sample2.md)
     * [Sample project 3](part6/sample3.md)
     * [Sample project 4](part6/sample4.md)
+    * [Sample project 5](part6/sample5.md)
