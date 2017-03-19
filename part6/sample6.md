@@ -41,3 +41,4 @@ References
 * http://cuiqingcai.com/2577.html
 * https://wade.one/blog/2013/12/09/phantomjs-custom-module-require-and-create/
 * http://1ke.co/course/284
+* https://www.cabotsolutions.com/2016/11/automated-smoke-testing-phantomjs-selenium/
