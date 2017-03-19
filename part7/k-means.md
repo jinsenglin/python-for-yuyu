@@ -55,4 +55,3 @@ References
 
 * http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
 * https://www.slideshare.net/SarahGuido/kmeans-clustering-with-scikitlearn
-* http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
