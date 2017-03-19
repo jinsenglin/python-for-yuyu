@@ -24,3 +24,6 @@
     * [Sample project 7](part6/sample7.md)
     * [Sample project 8](part6/sample8.md)
     * [Sample project 9](part6/sample9.md)
+* [Part VII](part7/README.md)
+    * [Regression](part7/regression.md)
+    * [K-means](part7/k-means.md)
